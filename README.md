@@ -1,4 +1,4 @@
-# Hello, I'm Luis Andrade 👋
+# Hello, I'm Luis Andrade 
 
 I'm an 19 year old Full-Stack developer currently studying **Information Systems at Universidade Federal Fluminense (UFF)**. 
 
