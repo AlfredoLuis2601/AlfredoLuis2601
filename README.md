@@ -36,7 +36,7 @@ As an autonomous Software Engineer, I specialize in building scalable web applic
 
 ---
 
-### [Amazon Clone E-commerce](https://github.com/AlfredoLuis2601/https://github.com/AlfredoLuis2601/Amazon-Clone-Vanilla-JS-Architecture)
+### [Amazon Clone E-commerce](https://github.com/AlfredoLuis2601/Amazon-Clone-Vanilla-JS-Architecture-)
 
 * **Description:** An automated reservation script designed to secure gym class slots using browser automation and scheduled triggers.
 * **Tech Stack:** JavaScript,HTML,CSS and Jasmine.
